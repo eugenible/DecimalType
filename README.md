@@ -1,6 +1,6 @@
 ![]()
 
-![decimal](resources\decimal.png)
+![decimal](resources/decimal.png)
 
 # Decimal
 
